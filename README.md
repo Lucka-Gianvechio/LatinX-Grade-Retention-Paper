@@ -8,24 +8,26 @@
 
 ## Table of Contents
 
-1.[Summary](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#summary)
-
-
-2.[Main results](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#main-results)
+1.[Summary](https://github.com/Lucka-Gianvechio/LatinX-Grade-Retention-Paper/blob/main/README.md#summary)
 
 
 
 
-3.[Description of notebooks](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#description-of-notebooks)
+2.[Main results](https://github.com/Lucka-Gianvechio/LatinX-Grade-Retention-Paper/blob/main/README.md#main-results)
+
+
+
+
+3.[Description of notebooks](https://github.com/Lucka-Gianvechio/LatinX-Grade-Retention-Paper/blob/main/README.md#description-of-notebooks)
   
   
 
 
-4.[Description of variables](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#description-of-variables)
+4.[Description of variables](https://github.com/Lucka-Gianvechio/LatinX-Grade-Retention-Paper/blob/main/README.md#description-of-variables)
 
-  - [Non personality Traits](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#non-personality-traits)
+  - [Non personality Traits](https://github.com/Lucka-Gianvechio/LatinX-Grade-Retention-Paper/blob/main/README.md#non-personality-traits)
     
-  - [Personality traits](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#personality-traits)
+  - [Personality traits](https://github.com/Lucka-Gianvechio/LatinX-Grade-Retention-Paper/blob/main/README.md#personality-traits)
     
 
 ## Summary
