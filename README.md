@@ -39,9 +39,9 @@ In this project we used a rich dataset of the school system in Sertãozinho (in 
 
 ## Main results
 
-![image](https://user-images.githubusercontent.com/82613797/115277315-81924300-a11a-11eb-897b-e5a780bfb42b.png)
+![image](https://github.com/goktrenks/LatinX-Grade-Retention-Paper/blob/1274b74f3ef1daf3f1121aad590bfd1f0e65c283/MutualInfo.png)
 
-SUVREL relevance analysis (function relevanceplot). It displays the relevance score for each feature in distance calculation.
+Mutual information
 
 ![image](https://user-images.githubusercontent.com/82613797/115277579-d5049100-a11a-11eb-927c-1c5a934835f0.png)
  
