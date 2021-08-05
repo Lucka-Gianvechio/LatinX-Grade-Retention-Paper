@@ -41,7 +41,7 @@ In this project we used a rich dataset of the school system in Sertãozinho (in 
 
 ![image](https://github.com/goktrenks/LatinX-Grade-Retention-Paper/blob/1274b74f3ef1daf3f1121aad590bfd1f0e65c283/MutualInfo.png)
 
-Mutual information
+Average pairwise mutual information in Nats (±standard deviation) of grade retention and one of the personality traits or test scores
 
 ![image](https://user-images.githubusercontent.com/82613797/115277579-d5049100-a11a-11eb-927c-1c5a934835f0.png)
  
